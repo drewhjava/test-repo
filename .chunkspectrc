@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "path": "./blah.js",
+      "maxSize": "5 kB"
+    }
+  ]
+}
