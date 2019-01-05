@@ -1,7 +1,7 @@
 {
   "files": [
     {
-      "path": "./blah.js",
+      "path": "./src/blah.js",
       "maxSize": "5 kB"
     }
   ]
