@@ -6,7 +6,7 @@
     },
     {
       "path": "./src/test.js",
-      "maxSize": "0 kB"
+      "maxSize": "1 kB"
     }
   ]
 }
