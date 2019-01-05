@@ -5,6 +5,10 @@
       "maxSize": "5 kB"
     },
     {
+      "path": "./src/blah2.js",
+      "maxSize": "5 kB"
+    },
+    {
       "path": "./src/test.js",
       "maxSize": "1 kB"
     }
