@@ -3,6 +3,10 @@
     {
       "path": "./src/blah.js",
       "maxSize": "5 kB"
+    },
+    {
+      "path": "./src/test.js",
+      "maxSize": "0 kB"
     }
   ]
 }
