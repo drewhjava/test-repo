@@ -1,0 +1,11 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/drewhjava/test-repo.git",
+  "author": "Drew Hamlett <i@drewh.me>",
+  "license": "MIT",
+  "dependencies": {
+    "chunkspect": "^0.0.5"
+  }
+}
